@@ -11,6 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
 
+  google_generative_ai: ^0.3.2
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
