@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:gemini_flutter_demo/models/article_idea.dart';
 import 'package:gemini_flutter_demo/repositories/article_idea_repository.dart';
 import 'package:gemini_flutter_demo/views/gemini_demo_data_view.dart';
 import 'package:gemini_flutter_demo/views/gemini_demo_loading_view.dart';
@@ -20,7 +21,7 @@ class _GeminiDemoViewState extends State<GeminiDemoView> {
       ArticleIdeaRepository();
 
   bool fetchingArticleIdeas = false;
-  List<String> articleIdeas = [];
+  List<ArticleIdea> articleIdeas = [];
   String query = '';
 
   @override

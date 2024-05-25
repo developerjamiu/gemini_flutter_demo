@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "421359445646",
+    "project_id": "gdg-vertex-demo",
+    "storage_bucket": "gdg-vertex-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421359445646:android:9ae559733071cc31084bdf",
+        "android_client_info": {
+          "package_name": "com.example.gemini_flutter_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvOEiEJTFk-FMjT_tpol3BiKlFJzDpXps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
